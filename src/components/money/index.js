@@ -1,0 +1,1 @@
+export { MoneyManagementPage } from './MoneyManagementPage';
